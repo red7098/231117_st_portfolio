@@ -5,19 +5,19 @@
 
 2.이예영 https://yoang31.github.io/
 
-3.강누리 https://nuunnunn.github.io/ (작업중)
+3.강누리 https://nuunnunn.github.io/
 
-4.최윤화 https://cyh272036.github.io/yunhwa/ (작업중)
+4.채환 https://chaehwan3294.github.io/total/
 
-5.최서은 https://se0304.github.io/lastportpolio/ (작업중)
+5.최윤화 https://cyh272036.github.io/yunhwa/
 
-6.채환 https://chaehwan3294.github.io/total/
+6.최서은 https://se0304.github.io/lastportpolio/
 
-7.박서연 https://pseoyn.github.io/Portfolio/ (작업중)
+7.박서연 https://pseoyn.github.io/Portfolio/
 
-8.박소영 https://thdudws.github.io/ (작업중)
+8.박소영 https://thdudws.github.io/
 
-9.오유진 https://jjs06.github.io/ (작업중)
+9.오유진 https://jjs06.github.io/
 
 10.조한희 https://chohoney99.github.io/
 
