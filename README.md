@@ -9,7 +9,7 @@
 
 4.채환 https://chaehwan3294.github.io/total/
 
-5.최윤화 https://cyh272036.github.io/yunhwa/
+5.최윤화 https://cyh272036.github.io/cyh/
 
 6.최서은 https://se0304.github.io/lastportpolio/
 
