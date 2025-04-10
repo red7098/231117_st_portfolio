@@ -13,7 +13,7 @@
 
 6.최서은 https://se0304.github.io/lastportpolio/
 
-7.박서연 https://pseoyn.github.io/Portfolio/
+7.박서연 
 
 8.박소영 https://thdudws.github.io/
 
